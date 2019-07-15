@@ -1,6 +1,6 @@
 package com.hackaton.routing.model;
 
-static class DataModel {
+public class DataModel {
     public final long[][] distanceMatrix = {
             {0, 548, 776, 696, 582, 274, 502, 194, 308, 194, 536, 502, 388, 354, 468, 776, 662},
             {548, 0, 684, 308, 194, 502, 730, 354, 696, 742, 1084, 594, 480, 674, 1016, 868, 1210},
